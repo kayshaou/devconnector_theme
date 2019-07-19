@@ -2,6 +2,12 @@
   border-radius: 50%;
 }
 
+.line {
+  height: 1px;
+  background: #ccc;
+  margin: 1.5rem 0;
+}
+
 .container {
   max-width: $max-width;
   margin: auto;
